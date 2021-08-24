@@ -46,6 +46,7 @@ h3{
 }
 figure {
   border: 4px #00FFFF ;
-  padding: auto;
+  margin: auto;
   width: 640px;
+   float: center;
 }
