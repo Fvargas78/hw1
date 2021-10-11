@@ -3,7 +3,7 @@ html {
     overflow-y: scroll;
 }
 body {
-    background: #CCFFFF;
+    background: lightsalmon;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
 }
 a {
